@@ -7,9 +7,9 @@
 default: &default
   adapter: postgresql
   encoding: unicode
+  # For details on connection pooling, see rails configuration guide
+  # http://guides.rubyonrails.org/configuring.html#database-pooling
   pool: 5
-  username: postgres
-  password: postgres
 
 development:
   <<: *default
@@ -22,6 +22,6 @@ development:
 #   <<: *default
 #   database: db/test.postgresql
 #
-# production:
-#   <<: *default
-#   database: db/production.postgresql
+production:
+  <<: *default
+  database: WDIConf_production
