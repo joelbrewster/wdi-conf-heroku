@@ -1,3 +1,4 @@
+$(document).ready(function() {
 function getTimeRemaining(endtime) {
   var t = Date.parse(endtime) - Date.parse(new Date());
   var seconds = Math.floor((t / 1000) % 60);
@@ -14,7 +15,10 @@ function getTimeRemaining(endtime) {
 }
 
 function initializeClock(id, endtime) {
+  console.log(id);
+  console.log(endtime);
   var clock = document.getElementById(id);
+  console.log(clock);
   var daysSpan = clock.querySelector('.days');
   var hoursSpan = clock.querySelector('.hours');
   var minutesSpan = clock.querySelector('.minutes');
@@ -58,3 +62,4 @@ initializeClock('clockdivhero', deadline);
 // setInterval(function() {
 //   clock.innerHTML = countdown(targetDate).toString();
 // }, 1000);
+});
