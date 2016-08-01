@@ -32,7 +32,7 @@ There are millions of sexy  singles neaar you using Pulse Express. So whether yo
 You can also browse through the music collections of friends because we haven't got oath working with that.
 
 Soundtrack your life with Pulse App. Log in with GitHub.",
-    project_time: DateTime.new(2016,7,16,23,50),
+    project_time: DateTime.new(2016,8,4,23,50),
     project_image1: "projects/p_01_logo.png",
     project_image2: "projects/p_02_pulse.png",
     project_image3: "projects/p_03_computer.png",
@@ -49,7 +49,7 @@ The average person will spend 6 months of their life in some form of a queue, fr
 With over 28,000 venues across 43 countries, people of the world are finally winning back their precious time thanks to Queuer.
 
 A Melbourne based success story, Queuer is a Queue Cure™ that waits in line for you, so you can get busy doing other fun stuff!",
-    project_time: DateTime.new(2016,7,17,4),
+    project_time: DateTime.new(2016,8,5,3,50),
     project_image1: "q_01_home.png",
     project_image2: "q_02_public.png",
     project_image3: "q_03_reg.png",
