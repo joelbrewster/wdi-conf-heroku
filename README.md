@@ -1,5 +1,19 @@
 # WDIConf 2016
 
+## [Working Link 01/08/2016](https://wdi7-conf.herokuapp.com/)
+
+### Team Members
+
+It was a pleasure working with these gents:
+- [Chris McCorry](https://github.com/ctrlaltchris)
+- [Jason Low](https://github.com/jasonlow90)
+- [Joel Brewster](https://github.com/joelbrewster)
+- [Peter Daniel](https://github.com/peterdaniel-fewd)
+- [Will Guan](https://github.com/guanwill)
+
+My profile:
+- [Niall O'Callaghan](https://github.com/noccer)
+
 ## Workload
 ### Pre rails (Partials and Static Layout).
 - Divided up sections for the hero, information, booking, project sections and a booking page.
